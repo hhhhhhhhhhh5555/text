@@ -1,0 +1,2 @@
+import random
+print(random.randint(0,9))#可生成0到9的随机数字
